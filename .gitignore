@@ -1,0 +1,11 @@
+__pycache__/
+.python-version
+.vscode/
+.DS_Store
+datasets/
+images/
+results/
+*.md
+model_cn
+model_cd
+*.Identifier
